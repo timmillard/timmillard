@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmillard&show_icons=true&theme=transparent)
-[![Tim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timmillard)]
+![Tim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timmillard)
