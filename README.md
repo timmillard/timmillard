@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timmillard
 - 👀 I’m interested in Software Development and Web Development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on projects to build my programming portfolio
 - 📫 How to reach me: via Durham University email (timothy.millard@durham.ac.uk), or via personal email (tim@timmillard.tech)
 <!---
